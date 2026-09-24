@@ -1,0 +1,9 @@
+Taruh file foto kamu di sini dengan nama persis:
+
+    image_ef9c80.jpg
+
+Jadi path lengkapnya: assets/team/image_ef9c80.jpg
+
+helpers.php sudah diatur supaya TEAM_PHOTO_NABIL, TEAM_PHOTO_MASEP,
+dan TEAM_PHOTO_KAIRA semuanya menunjuk ke file ini. Setelah foto
+ditaruh di sini, file .txt ini boleh dihapus.
